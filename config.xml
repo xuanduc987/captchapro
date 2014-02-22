@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config>
 	<projects>
+		<pix>
+			<version>3.0.0.0</version>
+			<minver>0.0.0.0</version>
+		</pix>
 	</projects>
+	
 	<dateUrls>
+		<time>http://date.comeze.com/date.php</time>
+		<time>http://xsoftcaptcha.com/date.php</time>
+		<time>http://xuanduc987.byethost7.com/date.php</time>
 	</dateUrls>
-	<announceUrl>http://lap-trinh-oop.googlecode.com/git/announce.txt</announceUrl>
+	
+	<announceUrl>http://captchapro.googlecode.com/git/announce.txt</announceUrl>
 </config>
