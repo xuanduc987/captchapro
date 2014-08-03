@@ -9,6 +9,10 @@
 			<version>0.0.0.5</version>
 			<minver>0.0.0.2</minver>
 		</twocaptcha>
+		<captcha24>
+			<version>0.0.0.1</version>
+			<minver>0.0.0.1</minver>
+		</captcha24>
 	</projects>
 	
 	<dateUrls>
