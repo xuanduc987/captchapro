@@ -6,11 +6,11 @@
 			<minver>0.0.1.8</minver>
 		</pix>
 		<twocaptcha>
-			<version>0.0.0.5</version>
+			<version>0.0.0.6</version>
 			<minver>0.0.0.2</minver>
 		</twocaptcha>
 		<captcha24>
-			<version>0.0.0.1</version>
+			<version>0.0.0.2</version>
 			<minver>0.0.0.1</minver>
 		</captcha24>
 	</projects>
