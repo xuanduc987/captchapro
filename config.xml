@@ -2,11 +2,11 @@
 <config>
 	<projects>
 		<pix>
-			<version>0.0.3.7</version>
+			<version>0.0.3.8</version>
 			<minver>0.0.3.7</minver>
 		</pix>
 		<pixsocks>
-			<version>0.0.3.7</version>
+			<version>0.0.3.8</version>
 			<minver>0.0.3.7</minver>
 		</pixsocks>
 		<twocaptcha>
